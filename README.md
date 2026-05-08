@@ -19,6 +19,7 @@
 3. 유니티 컴포넌트 기반 UI/UX 및 시점 제어
 * 사원수(Quaternion) 기반 역회전: 보드 회전 시 자식 객체(기물)에 역회전을 적용하여, 보드의 방향과 관계없이 기물의 정면 이미지가 항상 유저를 향하도록 설계.
 * 직관적 인터페이스: ToggleGroup을 활용해 기물 선택 및 설치 가능 영역 하이라이팅 시스템을 구축하여 유저 피드백 강화.
+<img width="125" height="250" alt="Image" src="https://github.com/user-attachments/assets/a7da2a84-3b67-4b37-a576-4374e9b8ecef" />  
 
 ## 레포지토리 구조
 * /Assets/Scripts: 기물 이동 로직, 자원 관리 매니저 및 UI 제어 스크립트
