@@ -22,6 +22,17 @@
 <img width="125" height="250" alt="Image" src="https://github.com/user-attachments/assets/a7da2a84-3b67-4b37-a576-4374e9b8ecef" />  
 
 ## 레포지토리 구조
-* /Assets/Scripts: 기물 이동 로직, 자원 관리 매니저 및 UI 제어 스크립트
-* /Assets/Prefabs: 각 기물의 속성과 컴포넌트가 설정된 프리팹 데이터
-* /ProjectSettings: 입력 및 레이어 설정 등 유니티 프로젝트 환경 설정 값  
+<details>
+<summary><b>📂 프로젝트 디렉토리 구조 (클릭하여 펼치기)</b></summary>
+
+<br>
+
+| 경로 (Path) | 설명 (Description) |
+| :--- | :--- |
+| 📂 **Assets/** | 유니티 메인 에셋 및 소스코드 저장소 |
+| ├── 📂 **Scenes/** | `Main`, `Game` 등 주요 씬 파일 |
+| ├── 📂 **Scripts/** | C# 소스코드 로직 |
+| ├── 📂 **Prefabs/** | UI, 몬스터, 이펙트 등 재사용 오브젝트 |
+| ⚙️ **ProjectSettings/** | 유니티 태그, 레이어, 인풋 매핑 설정 파일 |
+
+</details>
